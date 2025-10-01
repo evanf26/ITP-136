@@ -1,16 +1,16 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 
-namespace HelloWorld
+namespace Module2Assignment
 {
     using static System.Console;
     class Program
     {
         static void Main(string[] args)
         {
-            WriteLine("What is your name?");
-            string userName = ReadLine();
-            WriteLine("Your name is " + userName);
+            WriteLine("Who is being seen today?");
+            string patientName = ReadLine();
+            WriteLine("Welcome: " + patientName);
         }
     }
 }

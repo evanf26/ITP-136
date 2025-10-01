@@ -1,0 +1,15 @@
+C:\Users\fornem\Dropbox\github\ITP-136\HellowWorld\HellowWorld\bin\Debug\net8.0\HellowWorld.exe
+C:\Users\fornem\Dropbox\github\ITP-136\HellowWorld\HellowWorld\bin\Debug\net8.0\HellowWorld.deps.json
+C:\Users\fornem\Dropbox\github\ITP-136\HellowWorld\HellowWorld\bin\Debug\net8.0\HellowWorld.runtimeconfig.json
+C:\Users\fornem\Dropbox\github\ITP-136\HellowWorld\HellowWorld\bin\Debug\net8.0\HellowWorld.dll
+C:\Users\fornem\Dropbox\github\ITP-136\HellowWorld\HellowWorld\bin\Debug\net8.0\HellowWorld.pdb
+C:\Users\fornem\Dropbox\github\ITP-136\HellowWorld\HellowWorld\obj\Debug\net8.0\HellowWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fornem\Dropbox\github\ITP-136\HellowWorld\HellowWorld\obj\Debug\net8.0\HellowWorld.AssemblyInfoInputs.cache
+C:\Users\fornem\Dropbox\github\ITP-136\HellowWorld\HellowWorld\obj\Debug\net8.0\HellowWorld.AssemblyInfo.cs
+C:\Users\fornem\Dropbox\github\ITP-136\HellowWorld\HellowWorld\obj\Debug\net8.0\HellowWorld.csproj.CoreCompileInputs.cache
+C:\Users\fornem\Dropbox\github\ITP-136\HellowWorld\HellowWorld\obj\Debug\net8.0\HellowWorld.sourcelink.json
+C:\Users\fornem\Dropbox\github\ITP-136\HellowWorld\HellowWorld\obj\Debug\net8.0\HellowWorld.dll
+C:\Users\fornem\Dropbox\github\ITP-136\HellowWorld\HellowWorld\obj\Debug\net8.0\refint\HellowWorld.dll
+C:\Users\fornem\Dropbox\github\ITP-136\HellowWorld\HellowWorld\obj\Debug\net8.0\HellowWorld.pdb
+C:\Users\fornem\Dropbox\github\ITP-136\HellowWorld\HellowWorld\obj\Debug\net8.0\HellowWorld.genruntimeconfig.cache
+C:\Users\fornem\Dropbox\github\ITP-136\HellowWorld\HellowWorld\obj\Debug\net8.0\ref\HellowWorld.dll
