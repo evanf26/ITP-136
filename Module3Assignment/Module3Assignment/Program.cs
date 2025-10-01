@@ -32,9 +32,9 @@ namespace Module3Assignment
 
             float total = (oilChange + tireChange + inspection);
             //output the price of service to the user
-            WriteLine("Subtotal for services performed = $" + total
-                + "\n6% tax for services performed = $" + (total * 0.06)
-                + "\nTotal amount due = $" + (total * 1.06));
+            WriteLine($"Subtotal for services performed = {total:C}"
+                + $"\n6% tax for services performed = {(total * 0.06):C}"
+                + $"\nTotal amount due = {(total * 1.06):C}");
         }
     }
 }
