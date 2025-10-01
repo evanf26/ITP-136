@@ -1,0 +1,15 @@
+C:\Users\fornem\Dropbox\github\ITP-136\Module5Assignment\Module5Assignment\bin\Debug\net8.0\Module5Assignment.exe
+C:\Users\fornem\Dropbox\github\ITP-136\Module5Assignment\Module5Assignment\bin\Debug\net8.0\Module5Assignment.deps.json
+C:\Users\fornem\Dropbox\github\ITP-136\Module5Assignment\Module5Assignment\bin\Debug\net8.0\Module5Assignment.runtimeconfig.json
+C:\Users\fornem\Dropbox\github\ITP-136\Module5Assignment\Module5Assignment\bin\Debug\net8.0\Module5Assignment.dll
+C:\Users\fornem\Dropbox\github\ITP-136\Module5Assignment\Module5Assignment\bin\Debug\net8.0\Module5Assignment.pdb
+C:\Users\fornem\Dropbox\github\ITP-136\Module5Assignment\Module5Assignment\obj\Debug\net8.0\Module5Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fornem\Dropbox\github\ITP-136\Module5Assignment\Module5Assignment\obj\Debug\net8.0\Module5Assignment.AssemblyInfoInputs.cache
+C:\Users\fornem\Dropbox\github\ITP-136\Module5Assignment\Module5Assignment\obj\Debug\net8.0\Module5Assignment.AssemblyInfo.cs
+C:\Users\fornem\Dropbox\github\ITP-136\Module5Assignment\Module5Assignment\obj\Debug\net8.0\Module5Assignment.csproj.CoreCompileInputs.cache
+C:\Users\fornem\Dropbox\github\ITP-136\Module5Assignment\Module5Assignment\obj\Debug\net8.0\Module5Assignment.sourcelink.json
+C:\Users\fornem\Dropbox\github\ITP-136\Module5Assignment\Module5Assignment\obj\Debug\net8.0\Module5Assignment.dll
+C:\Users\fornem\Dropbox\github\ITP-136\Module5Assignment\Module5Assignment\obj\Debug\net8.0\refint\Module5Assignment.dll
+C:\Users\fornem\Dropbox\github\ITP-136\Module5Assignment\Module5Assignment\obj\Debug\net8.0\Module5Assignment.pdb
+C:\Users\fornem\Dropbox\github\ITP-136\Module5Assignment\Module5Assignment\obj\Debug\net8.0\Module5Assignment.genruntimeconfig.cache
+C:\Users\fornem\Dropbox\github\ITP-136\Module5Assignment\Module5Assignment\obj\Debug\net8.0\ref\Module5Assignment.dll
