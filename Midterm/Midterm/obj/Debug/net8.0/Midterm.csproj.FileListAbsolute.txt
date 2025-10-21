@@ -1,0 +1,15 @@
+C:\Users\fornem\Dropbox\github\ITP-136\Midterm\Midterm\bin\Debug\net8.0\Midterm.exe
+C:\Users\fornem\Dropbox\github\ITP-136\Midterm\Midterm\bin\Debug\net8.0\Midterm.deps.json
+C:\Users\fornem\Dropbox\github\ITP-136\Midterm\Midterm\bin\Debug\net8.0\Midterm.runtimeconfig.json
+C:\Users\fornem\Dropbox\github\ITP-136\Midterm\Midterm\bin\Debug\net8.0\Midterm.dll
+C:\Users\fornem\Dropbox\github\ITP-136\Midterm\Midterm\bin\Debug\net8.0\Midterm.pdb
+C:\Users\fornem\Dropbox\github\ITP-136\Midterm\Midterm\obj\Debug\net8.0\Midterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fornem\Dropbox\github\ITP-136\Midterm\Midterm\obj\Debug\net8.0\Midterm.AssemblyInfoInputs.cache
+C:\Users\fornem\Dropbox\github\ITP-136\Midterm\Midterm\obj\Debug\net8.0\Midterm.AssemblyInfo.cs
+C:\Users\fornem\Dropbox\github\ITP-136\Midterm\Midterm\obj\Debug\net8.0\Midterm.csproj.CoreCompileInputs.cache
+C:\Users\fornem\Dropbox\github\ITP-136\Midterm\Midterm\obj\Debug\net8.0\Midterm.sourcelink.json
+C:\Users\fornem\Dropbox\github\ITP-136\Midterm\Midterm\obj\Debug\net8.0\Midterm.dll
+C:\Users\fornem\Dropbox\github\ITP-136\Midterm\Midterm\obj\Debug\net8.0\refint\Midterm.dll
+C:\Users\fornem\Dropbox\github\ITP-136\Midterm\Midterm\obj\Debug\net8.0\Midterm.pdb
+C:\Users\fornem\Dropbox\github\ITP-136\Midterm\Midterm\obj\Debug\net8.0\Midterm.genruntimeconfig.cache
+C:\Users\fornem\Dropbox\github\ITP-136\Midterm\Midterm\obj\Debug\net8.0\ref\Midterm.dll
