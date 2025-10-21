@@ -4,7 +4,6 @@ using System;
 namespace Midterm
 {
     using static System.Console;
-    using static System.Net.Mime.MediaTypeNames;
 
     class Program
     {
