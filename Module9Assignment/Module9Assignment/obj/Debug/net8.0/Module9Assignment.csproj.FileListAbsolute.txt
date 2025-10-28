@@ -1,0 +1,15 @@
+C:\Users\fornem\Dropbox\github\ITP-136\Module9Assignment\Module9Assignment\bin\Debug\net8.0\Module9Assignment.exe
+C:\Users\fornem\Dropbox\github\ITP-136\Module9Assignment\Module9Assignment\bin\Debug\net8.0\Module9Assignment.deps.json
+C:\Users\fornem\Dropbox\github\ITP-136\Module9Assignment\Module9Assignment\bin\Debug\net8.0\Module9Assignment.runtimeconfig.json
+C:\Users\fornem\Dropbox\github\ITP-136\Module9Assignment\Module9Assignment\bin\Debug\net8.0\Module9Assignment.dll
+C:\Users\fornem\Dropbox\github\ITP-136\Module9Assignment\Module9Assignment\bin\Debug\net8.0\Module9Assignment.pdb
+C:\Users\fornem\Dropbox\github\ITP-136\Module9Assignment\Module9Assignment\obj\Debug\net8.0\Module9Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fornem\Dropbox\github\ITP-136\Module9Assignment\Module9Assignment\obj\Debug\net8.0\Module9Assignment.AssemblyInfoInputs.cache
+C:\Users\fornem\Dropbox\github\ITP-136\Module9Assignment\Module9Assignment\obj\Debug\net8.0\Module9Assignment.AssemblyInfo.cs
+C:\Users\fornem\Dropbox\github\ITP-136\Module9Assignment\Module9Assignment\obj\Debug\net8.0\Module9Assignment.csproj.CoreCompileInputs.cache
+C:\Users\fornem\Dropbox\github\ITP-136\Module9Assignment\Module9Assignment\obj\Debug\net8.0\Module9Assignment.sourcelink.json
+C:\Users\fornem\Dropbox\github\ITP-136\Module9Assignment\Module9Assignment\obj\Debug\net8.0\Module9Assignment.dll
+C:\Users\fornem\Dropbox\github\ITP-136\Module9Assignment\Module9Assignment\obj\Debug\net8.0\refint\Module9Assignment.dll
+C:\Users\fornem\Dropbox\github\ITP-136\Module9Assignment\Module9Assignment\obj\Debug\net8.0\Module9Assignment.pdb
+C:\Users\fornem\Dropbox\github\ITP-136\Module9Assignment\Module9Assignment\obj\Debug\net8.0\Module9Assignment.genruntimeconfig.cache
+C:\Users\fornem\Dropbox\github\ITP-136\Module9Assignment\Module9Assignment\obj\Debug\net8.0\ref\Module9Assignment.dll
