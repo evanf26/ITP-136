@@ -96,11 +96,7 @@ namespace Module12Assignment
             }
 
             Clear();
-            WriteLine("ID".PadRight(7) + "Name".PadRight(48) + "Price");
-            WriteLine(partList[input-1].partNum.ToString("D6").PadRight(7) + partList[input - 1].partName.PadRight(44) + $"{partList[input-1].partPrice:C}".PadLeft(9));
-            WriteLine("\nDescription\n" + partList[input-1].partDesc);
-
-
+            printPart(partList[input - 1]);
         }
 
         //method to print list of parts
@@ -116,6 +112,14 @@ namespace Module12Assignment
             {
                 WriteLine(((i + 1) + ".").PadLeft(4).PadRight(5) + aPartList[i].partNum.ToString("D6") + " " + aPartList[i].partName);
             }
+        }
+
+        //method to print single part
+        static void printPart(Part part)
+        {
+            WriteLine("ID".PadRight(7) + "Name".PadRight(48) + "Price");
+            WriteLine(part.partNum.ToString("D6").PadRight(7) + part.partName.PadRight(44) + $"{part.partPrice:C}".PadLeft(9));
+            WriteLine("\nDescription\n" + part.partDesc);
         }
     }
 }
