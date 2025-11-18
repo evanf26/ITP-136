@@ -90,7 +90,7 @@ namespace Module12Assignment
             //ask user for a part number
             while (true)
             {
-                WriteLine("Enter a line number to view more part information, or 0 to exit:");
+                WriteLine("\nEnter a line number to view more part information:");
                 if (int.TryParse(ReadLine(), out input) && input > 0 && input <= partList.Length) { break; }
                 WriteLine("Error: please provide an integer within range");
             }
